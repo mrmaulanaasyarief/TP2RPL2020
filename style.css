@@ -1,0 +1,11 @@
+body {
+    background-color: lightgray;
+}
+
+.wrapper{
+    margin-top: 30%;
+}
+
+.warning{
+    display: none;
+}
